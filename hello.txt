@@ -1,1 +1,4 @@
-hello world youpi
+hello world 
+
+pourquoi hello world ? 
+le mot a été utilisé pour la première fois en 1978 dans un manuel pour apprendre le langage C 
